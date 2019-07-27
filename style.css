@@ -60,10 +60,9 @@ img {max-height: auto; max-width: 500px;}
 .container {
 
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(30em, 1fr));
   justify-content: center;
   padding: 60px;
-  align-content: flex-start;
 
 
 }
