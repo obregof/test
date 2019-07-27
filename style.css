@@ -1,4 +1,4 @@
-body {background:#111111; color: #FCFCFC; font: 12px Helvetica, arial, sansserif, FuturaBold; text-decoration:none; }
+body {background:#111111; color: #FCFCFC; font: 16px Helvetica, arial, sansserif, FuturaBold; text-decoration:none; }
 
 ul {
   list-style-type: none;
@@ -15,8 +15,9 @@ img {max-height: auto; max-width: 500px;}
 .dropbtn {
   background-color: #111111;
   color: red;
-  padding: 16px;
-  font-size: 16px;
+  padding: 10px;
+  margin-left: 20px;
+  font-size: 27px;
   border: none;
 }
 
@@ -75,6 +76,11 @@ img {max-height: auto; max-width: 500px;}
   align-items: center;
 
 
+}
 
+.name {
+
+margin: 0px 0px 0px 220px;
+color:#f1f1f1;
 
 }
