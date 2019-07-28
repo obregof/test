@@ -86,6 +86,9 @@ color:#f1f1f1;
 
 }
 
+/* MEDIA QUERIES FOR MOBILE */
+/* looks good on Safari but a little off in Chrome */
+
 
 @media only screen and (max-width: 800px) {
 
